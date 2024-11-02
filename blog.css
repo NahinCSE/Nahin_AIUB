@@ -1,0 +1,14 @@
+div{
+    border: 10px solid gold;
+    margin: 5px;
+    border-radius: 6px;
+    padding: 50px;
+    color:chocolate;
+    Background-color: blueviolet;
+    box-shadow: 5px 10px 15px 5px;
+}
+
+.bold{
+    font-size: larger;
+    color: cadetblue;
+}
